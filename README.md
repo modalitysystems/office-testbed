@@ -5,9 +5,6 @@ Office Test Bed ARM Deployment allows you to quickly spin up an Azure VM based o
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fofficedeploy.blob.core.windows.net%2Fdeploy%2FmainTemplate.json" target="_blank">
   <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true" alt="Deploy To Azure" style="max-width:100%;">
 </a>
-<a href="http://armviz.io/#/?load=https://officedeploy.blob.core.windows.net/deploy/mainTemplate.json" target="_blank">
-  <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true" alt="Visualize" style="max-width:100%;">
-</a>
 
 > Note: For an introduction to Azure Resource Manager see [docs.microsoft.com](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview).
 
